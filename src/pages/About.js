@@ -18,7 +18,7 @@ function About() {
       <Container style={{ marginTop: 30 }}>
         <Row>
           <Col size="md-12">
-            <h1>When things are tough, look at a pup or some nature!</h1>
+            <h1>When things are tough, look at some nature!</h1>
           </Col>
         </Row>
         <Row>
